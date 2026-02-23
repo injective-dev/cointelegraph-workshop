@@ -1,6 +1,5 @@
-# 7 days of injective
+# Workshop for Cointelegraph
 
-This repo accompanies the 7 days of Injective video series. WIP.
 
 ## How to use this repo
 
