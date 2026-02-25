@@ -1,13 +1,13 @@
 # Workshop for Cointelegraph
 
+Welcome to the Injective x CoinTelegraph program!
+
+This repo contains the workshop materials to accompany our sessions.
 
 ## How to use this repo
 
-TODO
-
-## Tutorials
-
-TODO
+- Navigate to each of the subdirectories.
+- Follow the instructions in `README.md` for each one
 
 ## Authors
 
